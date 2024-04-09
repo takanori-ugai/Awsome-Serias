@@ -3,3 +3,6 @@
 * https://github.com/RManLuo/Awesome-LLM-KG
 * https://github.com/THUMNLab/awesome-large-graph-model
 * https://github.com/wehos/awesome-graph-transformer
+* https://github.com/ChanganVR/awesome-embodied-vision
+* https://github.com/haoranD/Awesome-Embodied-AI
+* https://github.com/chengaopro/Awesome-EmbodiedAI
