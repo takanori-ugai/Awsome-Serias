@@ -7,3 +7,5 @@
 * https://github.com/ChanganVR/awesome-embodied-vision
 * https://github.com/haoranD/Awesome-Embodied-AI
 * https://github.com/chengaopro/Awesome-EmbodiedAI
+
+* https://github.com/ZenzenDatabase/A_oveview_of_awesome_causality_dataset?tab=readme-ov-file
